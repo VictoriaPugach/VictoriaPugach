@@ -36,15 +36,7 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tora_pugach)
 
 
-## Public Projects
-
-### 🏥 Medical Applications
-
-|Project Info | Screenshot |
-| :--- | :--- |
-| **[Speech Therapy App](https://github.com/VictoriaPugach/speech-therapy-app)**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img src="https://via.placeholder.com/300x200/7F52FF/white?text=Speech+Therapy+App" width="300"> |
-| **[Cognitive Assessment Tool](https://github.com/VictoriaPugach/cognitive-assessment)**<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)<br><br> • Flutter app for children's comprehension assessment<br> • Gamified text and image understanding tests<br> • Adaptive difficulty system | <img src="https://via.placeholder.com/300x200/02569B/white?text=Cognitive+Tool" width="300"> |
-| **[Medical Infrastructure Testing](https://github.com/VictoriaPugach/medical-testing-app)**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square)<br><br> • Xamarin application for hospital infrastructure<br> • Interactive maps and surgical report generation<br> • Custom UI modules for medical data | <img src="https://via.placeholder.com/300x200/3498DB/white?text=Medical+App" width="300"> |
+## Projects
 
 ### 🌐 Frontend & Web Development
 
@@ -52,6 +44,16 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 | :--- | :--- |
 | **[SPA Website](https://github.com/VictoriaPugach/spa-website)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication<br> • Modern UI/UX design | <img src="https://via.placeholder.com/300x200/F7DF1E/black?text=SPA+Website" width="300"> |
 | **[WordPress E-commerce](https://github.com/VictoriaPugach/wordpress-ecommerce)**<br>![WordPress](https://img.shields.io/badge/WordPress-PHP-21759B?style=flat-square)<br><br> • Custom WordPress site migration and development<br> • Tailored JS/PHP scripts for enhanced functionality<br> • Figma design implementation | <img src="https://via.placeholder.com/300x200/21759B/white?text=WordPress+Site" width="300"> |
+
+### 🔒 Protected Projects
+
+*Projects under NDA or patent protection - code unavailable for public access*
+
+|Project Info | Screenshot |
+| :--- | :--- |
+| **[Speech Therapy App](https://github.com/VictoriaPugach/speech-therapy-app)**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img src="https://via.placeholder.com/300x200/7F52FF/white?text=Speech+Therapy+App" width="300"> |
+| **[Cognitive Assessment Tool](https://github.com/VictoriaPugach/cognitive-assessment)**<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)<br><br> • Flutter app for children's comprehension assessment<br> • Gamified text and image understanding tests<br> • Adaptive difficulty system | <img src="https://via.placeholder.com/300x200/02569B/white?text=Cognitive+Tool" width="300"> |
+| **[Medical Infrastructure Testing](https://github.com/VictoriaPugach/medical-testing-app)**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square)<br><br> • Xamarin application for hospital infrastructure<br> • Interactive maps and surgical report generation<br> • Custom UI modules for medical data | <img src="https://via.placeholder.com/300x200/3498DB/white?text=Medical+App" width="300"> |
 
 ### 🔬 Academic & Research
 
