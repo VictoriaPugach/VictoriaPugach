@@ -42,8 +42,9 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 |Project Info | Screenshot |
 | :--- | :--- |
-| **[SPA Game (“Rock paper scissors”)](https://github.com/VictoriaPugach/SPA_project)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication<br> • Modern UI/UX design | <img width="400"  alt="image" src="https://github.com/user-attachments/assets/26c8e9b7-82b0-4944-bf48-a790d71fc106" />|
-| **[WordPress E-commerce](https://github.com/VictoriaPugach/wordpress-ecommerce)**<br>![WordPress](https://img.shields.io/badge/WordPress-PHP-21759B?style=flat-square)<br><br> • Custom WordPress site migration and development<br> • Tailored JS/PHP scripts for enhanced functionality<br> • Figma design implementation | <img src="https://via.placeholder.com/300x200/21759B/white?text=WordPress+Site" width="300"> |
+| **[SPA Game (“Rock paper scissors”)](https://github.com/VictoriaPugach/SPA_project)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication (using API)<br> | <img width="400"  alt="image" src="https://github.com/user-attachments/assets/26c8e9b7-82b0-4944-bf48-a790d71fc106" />|
+| **[Arcade game (native JS)](https://github.com/VictoriaPugach/arcade_game)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)![HTML5](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=flat-square)<br><br> • **Object-Oriented Architecture** - Implemented class inheritance and interfaces for game entities (characters, enemies, items)<br> • **Advanced JavaScript Features** - Utilized Promises and async/await for game mechanics and animations <br> • **Browser-Based Engine** - Built standalone game with procedural level generation running entirely client-side | <img width="400" alt="image" src="https://github.com/user-attachments/assets/2499d5f3-46dc-4aeb-aaf2-3392dee66598" />
+ |
 
 ### 🔒 Protected Projects
 
