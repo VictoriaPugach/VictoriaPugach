@@ -6,6 +6,8 @@
 I'm **Victoria Pugach** - a passionate Software Engineering student at HSE University with a strong background in Applied Mathematics. I love building innovative applications and solving complex problems through code.
 
 🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  
+💼 **Professional Roles:** Mobile Developer & Research Intern at HSE Center for Language and Brain  
+👨‍🏫 **Teaching:** Programming Instructor (Roblox, Python) & Course Creator for hundreds of students annually 
 🎯 **Interests:** Mobile Development, Full-Stack Engineering, Data Analysis, and Educational Technology  
 🏆 **Achievements:** Ranked #1 in Bachelor's program with GPA 8.6/10
 
@@ -51,9 +53,9 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 |Project Info | Screenshot |
 | :--- | :--- |
-| **[Speech Therapy App](https://github.com/VictoriaPugach/speech-therapy-app)**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img src="https://via.placeholder.com/300x200/7F52FF/white?text=Speech+Therapy+App" width="300"> |
-| **[Cognitive Assessment Tool](https://github.com/VictoriaPugach/cognitive-assessment)**<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)<br><br> • Flutter app for children's comprehension assessment<br> • Gamified text and image understanding tests<br> • Adaptive difficulty system | <img src="https://via.placeholder.com/300x200/02569B/white?text=Cognitive+Tool" width="300"> |
-| **[Medical Infrastructure Testing](https://github.com/VictoriaPugach/medical-testing-app)**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square)<br><br> • Xamarin application for hospital infrastructure<br> • Interactive maps and surgical report generation<br> • Custom UI modules for medical data | <img src="https://via.placeholder.com/300x200/3498DB/white?text=Medical+App" width="300"> |
+| **Linguistic Intraoperative Testing Application**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)<br><br> • **Interactive Mapping System** - Developed dynamic map interface for real-time surgical zone visualization and navigation <br> • **Interactive Protocol System** - Developed comprehensive reporting interface with brain image annotation tools for direct surgical documentation. Implemented PDF generation with embedded annotations and structured medical data<br> •  **Role-based Access Control** - Designed secure user hierarchy | <img src="https://via.placeholder.com/300x200/3498DB/white?text=Medical+App" width="300"> |
+| **Speech Therapy App**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img src="https://via.placeholder.com/300x200/7F52FF/white?text=Speech+Therapy+App" width="300"> |
+
 
 ### 🔬 Academic & Research
 
