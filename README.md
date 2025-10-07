@@ -42,7 +42,8 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 |Project Info | Screenshot |
 | :--- | :--- |
-| **[SPA Website](https://github.com/VictoriaPugach/spa-website)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication<br> • Modern UI/UX design | <img width="2412" height="1226" alt="image" src="https://github.com/user-attachments/assets/13ceda6a-73d8-40ad-af30-fed5168042f6" />
+| **[SPA Website](https://github.com/VictoriaPugach/spa-website)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication<br> • Modern UI/UX design | <img   alt="image" src="https://github.com/user-attachments/assets/26c8e9b7-82b0-4944-bf48-a790d71fc106" />
+
  |
 | **[WordPress E-commerce](https://github.com/VictoriaPugach/wordpress-ecommerce)**<br>![WordPress](https://img.shields.io/badge/WordPress-PHP-21759B?style=flat-square)<br><br> • Custom WordPress site migration and development<br> • Tailored JS/PHP scripts for enhanced functionality<br> • Figma design implementation | <img src="https://via.placeholder.com/300x200/21759B/white?text=WordPress+Site" width="300"> |
 
