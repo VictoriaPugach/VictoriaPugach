@@ -36,7 +36,43 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tora_pugach)
 
 ## Public Projects
+### 🏥 Medical Applications
 
+<div align="center">
+  
+| Project | Description |
+| :--- | :--- |
+| **[Speech Therapy App](https://github.com/VictoriaPugach/speech-therapy-app)** <br> ![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square) | Kotlin Multiplatform application for patients with aphasic disorders with interactive exercises and progress tracking |
+| <img src="https://via.placeholder.com/400x250/7F52FF/white?text=Speech+Therapy+App" width="200" align="right"> | |
+| **[Cognitive Assessment Tool](https://github.com/VictoriaPugach/cognitive-assessment)** <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square) | Flutter app for assessing text and image comprehension in children with gamified tests |
+| <img src="https://via.placeholder.com/400x250/02569B/white?text=Cognitive+Tool" width="200" align="right"> | |
+| **[Medical Infrastructure Testing](https://github.com/VictoriaPugach/medical-testing-app)** <br> ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) | Xamarin application with interactive maps and surgical report generation for hospital infrastructure |
+
+</div>
+
+### 🌐 Web Development
+
+<div align="center">
+  
+| Project | Description |
+| :--- | :--- |
+| **[SPA Website](https://github.com/VictoriaPugach/spa-website)** <br> ![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square) | Single Page Application implementing AJAX for efficient asynchronous server communication |
+| <img src="https://via.placeholder.com/400x250/F7DF1E/black?text=SPA+Website" width="200" align="right"> | |
+| **[WordPress E-commerce](https://github.com/VictoriaPugach/wordpress-ecommerce)** <br> ![WordPress](https://img.shields.io/badge/WordPress-PHP-21759B?style=flat-square) | Custom WordPress site with tailored JS/PHP scripts and modern Figma design implementation |
+
+</div>
+
+### 🔬 Academic & Research
+
+<div align="center">
+  
+| Project | Description |
+| :--- | :--- |
+| **[Numerical Modeling](https://github.com/VictoriaPugach/numerical-modeling)** <br> ![Python](https://img.shields.io/badge/Python-NumPy-3776AB?style=flat-square) | Solving physical and applied mathematical problems using Python with Numba and Matplotlib |
+| <img src="https://via.placeholder.com/400x250/3776AB/white?text=Numerical+Modeling" width="200" align="right"> | |
+| **[Educational Platform](https://github.com/VictoriaPugach/educational-platform)** <br> ![React](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square) | Full-stack platform for programming education with interactive coding exercises |
+
+</div>
 
 
 ⭐ *From [VictoriaPugach](https://github.com/VictoriaPugach) with love*
