@@ -61,8 +61,7 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 |Project Info | Screenshot |
 | :--- | :--- |
 | **[Numerical methods](https://github.com/VictoriaPugach/numerical_methods) & [Physics Simulations](https://github.com/VictoriaPugach/computer_practicum)**<br>![Python](https://img.shields.io/badge/Python-NumPy-3776AB?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square)<br><br> • **Classical Numerical Algorithms** - Implementation of fundamental methods: Thompson sampling, Monte Carlo, finite differences  <br> • **Mathematical Modeling** - Research and analysis of various stochastic and deterministic mathematical models  <br> • **Boids Flocking Simulation** - Complex emergent behavior algorithms with optimized particle systems <br> • **Parallel Computing & Optimization** - High-performance computing using Numba for JIT compilation and parallel processing  
-<br>• **Heat Transfer Modeling** - Thermal diffusion analysis and partial differential equation solving for physical systems | <img width="400" alt="image" src="https://github.com/user-attachments/assets/46659315-aa3d-4dde-a085-37078c472975" />
- |
+<br> • **Heat Transfer Modeling** - Thermal diffusion analysis and partial differential equation solving for physical systems | <img width="400" alt="image" src="https://github.com/user-attachments/assets/46659315-aa3d-4dde-a085-37078c472975" />|
 | **[Educational Site](https://github.com/VictoriaPugach/educational-platform)**<br>![React](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)<br><br> • Full-stack programming education platform<br> • Interactive coding exercises and workshops<br> • Curriculum development for all levels | <img src="https://via.placeholder.com/300x200/61DAFB/black?text=Education+Platform" width="300"> |
 
 ⭐ *From [VictoriaPugach](https://github.com/VictoriaPugach) with love*
