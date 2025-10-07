@@ -40,7 +40,7 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 ### 🏥 Medical Applications
 
-| | |
+
 | :--- | :--- |
 | **[Speech Therapy App](https://github.com/VictoriaPugach/speech-therapy-app)**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img src="https://via.placeholder.com/300x200/7F52FF/white?text=Speech+Therapy+App" width="300"> |
 | **[Cognitive Assessment Tool](https://github.com/VictoriaPugach/cognitive-assessment)**<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square)<br><br> • Flutter app for children's comprehension assessment<br> • Gamified text and image understanding tests<br> • Adaptive difficulty system | <img src="https://via.placeholder.com/300x200/02569B/white?text=Cognitive+Tool" width="300"> |
@@ -48,14 +48,14 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 ### 🌐 Web Development
 
-| | |
+
 | :--- | :--- |
 | **[SPA Website](https://github.com/VictoriaPugach/spa-website)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication<br> • Modern UI/UX design | <img src="https://via.placeholder.com/300x200/F7DF1E/black?text=SPA+Website" width="300"> |
 | **[WordPress E-commerce](https://github.com/VictoriaPugach/wordpress-ecommerce)**<br>![WordPress](https://img.shields.io/badge/WordPress-PHP-21759B?style=flat-square)<br><br> • Custom WordPress site migration and development<br> • Tailored JS/PHP scripts for enhanced functionality<br> • Figma design implementation | <img src="https://via.placeholder.com/300x200/21759B/white?text=WordPress+Site" width="300"> |
 
 ### 🔬 Academic & Research
 
-| | |
+
 | :--- | :--- |
 | **[Numerical Modeling](https://github.com/VictoriaPugach/numerical-modeling)**<br>![Python](https://img.shields.io/badge/Python-NumPy-3776AB?style=flat-square)<br><br> • Solving physical and applied mathematical problems<br> • Python with Numba, NumPy and Matplotlib<br> • Data visualization and analysis | <img src="https://via.placeholder.com/300x200/3776AB/white?text=Numerical+Modeling" width="300"> |
 | **[Educational Platform](https://github.com/VictoriaPugach/educational-platform)**<br>![React](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)<br><br> • Full-stack programming education platform<br> • Interactive coding exercises and workshops<br> • Curriculum development for all levels | <img src="https://via.placeholder.com/300x200/61DAFB/black?text=Education+Platform" width="300"> |
