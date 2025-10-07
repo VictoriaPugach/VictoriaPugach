@@ -42,20 +42,19 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 ### 🌐 Frontend & Web Development
 
-|Project Info | Screenshot |
+| Project Info | Screenshot |
 | :--- | :--- |
-| **[SPA Game (“Rock paper scissors”)](https://github.com/VictoriaPugach/SPA_project)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication (using API)<br> | <img width="400"  alt="image" src="https://github.com/user-attachments/assets/26c8e9b7-82b0-4944-bf48-a790d71fc106" />|
-| **[Arcade game (native JS)](https://github.com/VictoriaPugach/arcade_game)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)<br><br> • **Optimized Game Architecture** - Built scalable OOP system with entity inheritance and async game mechanics<br> • **Complex Procedural Generation** - Designed collision-free maze algorithm with 5-10 non-overlapping randomly positioned rooms and corridors <br> • **Advanced AI Pathfinding** - Implemented multiple enemy pursuit patterns (chasing, one dimensional, random movement) for diverse gameplay | <img width="400"  alt="image" src="https://github.com/user-attachments/assets/d2856a9e-7bee-4417-b4f7-3d2a80e8fe78" /> |
+| **[SPA Game (“Rock paper scissors”)](https://github.com/VictoriaPugach/SPA_project)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-AJAX-F7DF1E?style=flat-square)<br><br> • Single Page Application with AJAX implementation<br> • Efficient asynchronous server communication (using API)<br> | <img width="400" alt="SPA Game" src="https://github.com/user-attachments/assets/26c8e9b7-82b0-4944-bf48-a790d71fc106" /> |
+| **[Arcade game (native JS)](https://github.com/VictoriaPugach/arcade_game)**<br>![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)<br><br> • **Optimized Game Architecture** - Built scalable OOP system with entity inheritance and async game mechanics<br> • **Complex Procedural Generation** - Designed collision-free maze algorithm with 5-10 non-overlapping randomly positioned rooms and corridors <br> • **Advanced AI Pathfinding** - Implemented multiple enemy pursuit patterns (chasing, one dimensional, random movement) for diverse gameplay | <img width="400" alt="Arcade Game" src="https://github.com/user-attachments/assets/d2856a9e-7bee-4417-b4f7-3d2a80e8fe78" /> |
 
 ### 🔒 Protected Projects
 
 *Projects under NDA or patent protection - code unavailable for public access*
 
-|Project Info | Screenshot |
+| Project Info | Screenshot |
 | :--- | :--- |
-| **[Linguistic Intraoperative Testing Application]()**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)<br><br> • **Interactive Mapping System** - Developed dynamic map interface for real-time surgical zone visualization and navigation <br> • **Interactive Protocol System** - Developed comprehensive reporting interface with brain image annotation tools for direct surgical documentation. Implemented PDF generation with embedded annotations and structured medical data<br> •  **Role-based Access Control** - Designed secure user hierarchy | <img width="400" alt="image" src="https://github.com/user-attachments/assets/b5bcd914-535a-417c-953d-af383a876aa8" />|
-| **[Speech Therapy App]()**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img width="400" alt="image" src="https://github.com/user-attachments/assets/4782d2a3-ff59-404c-83ce-c82bfed2ea64" />|
-
+| **Linguistic Intraoperative Testing Application**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)<br><br> • **Interactive Mapping System** - Developed dynamic map interface for real-time surgical zone visualization and navigation <br> • **Interactive Protocol System** - Developed comprehensive reporting interface with brain image annotation tools for direct surgical documentation. Implemented PDF generation with embedded annotations and structured medical data<br> • **Role-based Access Control** - Designed secure user hierarchy | <img width="400" alt="Medical App" src="https://github.com/user-attachments/assets/b5bcd914-535a-417c-953d-af383a876aa8" /> |
+| **Speech Therapy App**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img width="400" alt="Speech Therapy App" src="https://github.com/user-attachments/assets/4782d2a3-ff59-404c-83ce-c82bfed2ea64" /> |
 
 ### 🔬 Academic & Research
 
