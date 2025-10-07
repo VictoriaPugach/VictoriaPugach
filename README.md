@@ -7,7 +7,7 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  
 💼 **Professional Roles:** Mobile Developer & Research Intern at HSE Center for Language and Brain  
-👨‍🏫 **Teaching:** Programming Instructor (Roblox, Python) & Course Creator for hundreds of students annually 
+👨‍🏫 **Teaching:** Programming Instructor & Course Creator (Roblox, Godot, Python) for hundreds of students annually 
 🎯 **Interests:** Mobile Development, Full-Stack Engineering, Data Analysis, and Educational Technology  
 🏆 **Achievements:** Ranked #1 in Bachelor's program with GPA 8.6/10
 
@@ -53,29 +53,20 @@ I'm **Victoria Pugach** - a passionate Software Engineering student at HSE Unive
 
 | Project Info | Screenshot |
 | :--- | :--- |
-| **Linguistic Intraoperative Testing Application**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)<br><br> • **Interactive Mapping System** - Developed dynamic map interface for  <br> real-time surgical zone visualization and navigation <br> • **Interactive Protocol System** - Developed comprehensive reporting interface  <br> with brain image annotation tools for direct surgical documentation. Implemented PDF generation  <br> with embedded annotations and structured medical data<br> • **Role-based Access Control** - Designed secure user hierarchy | <img width="400" alt="Medical App" src="https://github.com/user-attachments/assets/b5bcd914-535a-417c-953d-af383a876aa8" /> |
+| **Linguistic Intraoperative Testing Application**<br>![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)<br><br> • **Interactive Mapping System** - Developed dynamic map interface for real-time surgical  <br> zone visualization and navigation <br> • **Interactive Protocol System** - Developed comprehensive reporting interface  <br> with brain image annotation tools for direct surgical documentation. Implemented PDF generation  <br> with embedded annotations and structured medical data<br> • **Role-based Access Control** - Designed secure user hierarchy | <img width="400" alt="Medical App" src="https://github.com/user-attachments/assets/b5bcd914-535a-417c-953d-af383a876aa8" /> |
 | **Speech Therapy App (In Progress...)**<br>![Kotlin](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=flat-square)<br><br> • Kotlin Multiplatform mobile app for aphasia patients<br> • Interactive speech exercises and progress tracking<br> • Real-time feedback system | <img width="400" alt="Speech Therapy App" src="https://github.com/user-attachments/assets/4782d2a3-ff59-404c-83ce-c82bfed2ea64" /> |
 
 ### 🔬 Academic & Research
 
 |Project Info | Screenshot |
 | :--- | :--- |
-| **[Numerical Modeling](https://github.com/VictoriaPugach/numerical-modeling)**<br>![Python](https://img.shields.io/badge/Python-NumPy-3776AB?style=flat-square)<br><br> • Solving physical and applied mathematical problems<br> • Python with Numba, NumPy and Matplotlib<br> • Data visualization and analysis | <img src="https://via.placeholder.com/300x200/3776AB/white?text=Numerical+Modeling" width="300"> |
-| **[Educational Platform](https://github.com/VictoriaPugach/educational-platform)**<br>![React](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)<br><br> • Full-stack programming education platform<br> • Interactive coding exercises and workshops<br> • Curriculum development for all levels | <img src="https://via.placeholder.com/300x200/61DAFB/black?text=Education+Platform" width="300"> |
+| **[Numerical methods](https://github.com/VictoriaPugach/numerical_methods) & [Physics Simulations](https://github.com/VictoriaPugach/computer_practicum)**<br>![Python](https://img.shields.io/badge/Python-NumPy-3776AB?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square)<br><br> • **Classical Numerical Algorithms** - Implementation of fundamental methods: Thompson sampling, Monte Carlo, finite differences  <br> • **Mathematical Modeling** - Research and analysis of various stochastic and deterministic mathematical models  <br> • **Boids Flocking Simulation** - Complex emergent behavior algorithms with optimized particle systems <br> • **Parallel Computing & Optimization** - High-performance computing using Numba for JIT compilation and parallel processing  
+<br>• **Heat Transfer Modeling** - Thermal diffusion analysis and partial differential equation solving for physical systems | <img width="400" alt="image" src="https://github.com/user-attachments/assets/46659315-aa3d-4dde-a085-37078c472975" />
+ |
+| **[Educational Site](https://github.com/VictoriaPugach/educational-platform)**<br>![React](https://img.shields.io/badge/React-Node.js-61DAFB?style=flat-square)<br><br> • Full-stack programming education platform<br> • Interactive coding exercises and workshops<br> • Curriculum development for all levels | <img src="https://via.placeholder.com/300x200/61DAFB/black?text=Education+Platform" width="300"> |
 
 ⭐ *From [VictoriaPugach](https://github.com/VictoriaPugach) with love*
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
