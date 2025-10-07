@@ -5,11 +5,11 @@
 ## Whoami
 I'm **Victoria Pugach** - a passionate Software Engineering student at HSE University with a strong background in Applied Mathematics. I love building innovative applications and solving complex problems through code.
 
-🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  
-💼 **Professional Roles:** Mobile Developer & Research Intern at HSE Center for Language and Brain  
-👨‍🏫 **Teaching:** Programming Instructor & Course Creator (Roblox, Godot, Python) for hundreds of students annually 
-🎯 **Interests:** Mobile Development, Full-Stack Engineering, Data Analysis, and Educational Technology  
-🏆 **Achievements:** Ranked #1 in Bachelor's program with GPA 8.6/10
+🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  <br>
+💼 **Professional Roles:** Mobile Developer & Research Intern at HSE Center for Language and Brain  <br>
+👨‍🏫 **Teaching:** Programming Instructor & Course Creator (Roblox, Godot, Python) for hundreds of students annually <br>
+🎯 **Interests:** Mobile Development, Full-Stack Engineering, Data Analysis, and Educational Technology  <br>
+🏆 **Achievements:** Ranked #1 in Bachelor's program with GPA 8.6/10<br>
 
 ## Things I code with
 ### Programming Languages
