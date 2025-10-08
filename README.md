@@ -3,7 +3,7 @@
 <img width="5910" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d111317-4219-4daa-900d-faf22df77a79" />
 
 ## Whoami
-I'm **Victoria Pugach** - a passionate Software Engineering student at HSE University with a strong background in Applied Mathematics. I love building innovative applications and solving complex problems through code.
+I'm **Victoria Pugach** - a Software Engineering student at HSE University with a strong background in Applied Mathematics. I love building innovative applications and solving complex problems through code.
 
 🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  <br>
 💼 **Professional Roles:** Mobile Developer & Research Intern at HSE Center for Language and Brain  <br>
