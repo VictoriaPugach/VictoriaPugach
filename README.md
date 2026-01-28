@@ -8,7 +8,7 @@ I'm **Victoria Pugach** - a Software Engineering student at HSE University with 
 🎓 **Currently pursuing:** Master of Science in Software Engineering @ HSE University  <br>
 💼 **Professional Roles:** Frontend Developer & Research Intern at HSE Center for Language and Brain  <br>
 👨‍🏫 **Teaching:** Programming Instructor & Course Creator (Roblox, Godot, Python) for hundreds of students annually <br>
-🎯 **Interests:** Mobile Development, Full-Stack Engineering, Data Analysis, and Educational Technology  <br>
+🎯 **Interests:** Frontend Development, Full-Stack Engineering and Educational Technology  <br>
 🏆 **Achievements:** Ranked #1 in Bachelor's program with GPA 8.6/10<br>
 
 ## Things I code with
@@ -47,7 +47,7 @@ I'm **Victoria Pugach** - a Software Engineering student at HSE University with 
 | :--- | :--- |
 | **[PostgreSQL Load Profiler](https://github.com/lypolix/pg_load_profile)**<br>![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-Orange?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791?style=flat-square)<br><br> • **Built real-time monitoring dashboard** with interactive charts showing CPU/IO/lock metrics and performance analytics<br> • **Implemented complex data visualization** for 20+ PostgreSQL metrics with dynamic filtering and historical comparison<br> • **Developed responsive UI components** for ML model predictions, confidence scores, and tuning recommendations<br> • **Created config management interface** for applying/testing different PostgreSQL optimization presets | <img width="400" alt="PostgreSQL Load Profiler Dashboard" src="https://github.com/user-attachments/assets/9bc9d775-9eae-4175-b83d-79ce144af310" /> |
 | **[EasyFund - Consortium Lending Platform](https://github.com/Arlandaren/easyfund)**<br>![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)<br><br> • **Developed complete frontend architecture** for multi-role platform (borrowers, banks, investors) with separate dashboards<br> • **Built complex loan application wizard** with multi-step forms, real-time credit scoring display, and consortium matching visualization<br> • **Implemented real-time dashboards** with live updates via WebSocket for loan status, investor participation, and risk metrics<br> • **Created role-based access control (RBAC) system** with different UI flows for borrowers (application tracking) and banks (portfolio management)<br> • **Designed responsive data tables** with filtering, sorting, and export functionality for financial transactions and loan portfolios | <img width="400" alt="EasyFund Lending Platform" src="https://github.com/user-attachments/assets/29194824-ef8c-45f0-9092-c07b1c268346" /> |
- |
+ 
 
 ### 🌐 Frontend & Web Development
 
