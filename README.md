@@ -37,6 +37,7 @@ I'm **Victoria Pugach** - a Software Engineering student at HSE University with 
 [![Gmail](https://img.shields.io/badge/Gmail-tora.pugach@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tora.pugach@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victoriapugach)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tora_pugach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-pugach/)
 
 
 ## Projects
